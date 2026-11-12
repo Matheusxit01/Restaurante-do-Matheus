@@ -1,0 +1,14 @@
+br\com\senai\deliveryavaliacao\exeption\ErroResposta.class
+br\com\senai\deliveryavaliacao\model\Produto.class
+br\com\senai\deliveryavaliacao\dto\ProdutoRequest.class
+br\com\senai\deliveryavaliacao\exeption\RecursoNaoEncontradoException.class
+br\com\senai\deliveryavaliacao\exeption\GlobalExceptionHandler.class
+br\com\senai\deliveryavaliacao\DeliveryavaliacaoApplication.class
+br\com\senai\deliveryavaliacao\repository\RestauranteRepository.class
+br\com\senai\deliveryavaliacao\exeption\RequisicaoInvalidaException.class
+br\com\senai\deliveryavaliacao\repository\ProdutoRepository.class
+br\com\senai\deliveryavaliacao\controller\ProdutoController.class
+br\com\senai\deliveryavaliacao\controller\RestauranteController.class
+br\com\senai\deliveryavaliacao\service\ProdutoService.class
+br\com\senai\deliveryavaliacao\model\Restaurante.class
+br\com\senai\deliveryavaliacao\dto\ProdutoResponse.class
